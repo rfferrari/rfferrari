@@ -5,7 +5,8 @@ Frontend Developer focused on **Angular and TypeScript** with experience buildin
 Currently working with:
 
 - Angular
-- Ionic
+- Ionic / Mobile Hybrid Apps
+- Flutter (learning) • Dart (basic)
 - TypeScript
 - REST APIs
 - .NET integrations
