@@ -1,10 +1,11 @@
 ## Hi 👋 I'm Raquel Ferrari
 
-Frontend Developer focused on **Angular and TypeScript** with experience building corporate web and hybrid mobile applications.
+Software Developer focused on **Angular and TypeScript** with experience building corporate web and hybrid mobile applications.
 
 Currently working with:
 
 - Angular
+- C#
 - Ionic / Mobile Hybrid Apps
 - Flutter (learning) • Dart (basic)
 - TypeScript
